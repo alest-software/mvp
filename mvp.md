@@ -24,6 +24,10 @@ Frank Robinson originally defined the MVP while working on synchronized business
 - **Faster Time-to-Market:** Gets the product into users' hands quickly.
 - **Feedback-Driven Development:** Aligns future product iterations with actual user behavior and preferences rather than assumptions.
 
+## Quality and the MVP
+
+An MVP does not mean sub-par or broken quality. "Minimum" refers exclusively to the **scope of features** (building only what is necessary to test the core value proposition), not to the quality, reliability, or security of those features. If a product is buggy, unstable, or poorly engineered, users will attribute that poor experience to the product's overall value rather than its early stage, skewing feedback and invalidating the experiment. An MVP must still be robust, dependable, and usable enough to solve the specific user problem it targets.
+
 ## The "Product-Over-Project" Mindset
 
 In agile software development and lean product management, the **product-over-project** mindset is a foundational paradigm shift:
