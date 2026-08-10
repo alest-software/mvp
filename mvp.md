@@ -85,6 +85,13 @@ There is a distinct difference in scope, audience, and intent between product do
   - *Focus:* How the project is built, deployed, configured, and run (e.g., `README` files, installation guides, deployment instructions, environment setup).
   - *MVP Approach:* Even a minimal product requires clear project documentation so that developers, stakeholders, or early adopters can actually install, run, and deploy it. While it should still be concise, having functional setup instructions is critical because code that cannot be run or deployed cannot serve as a viable MVP.
 
+## References & Further Reading
+
+- **SyncDev Inc.** — Historical definition and origins of the Minimum Viable Product. [SyncDev MVP Guide](https://www.syncdev.com/minimum-viable-product/)
+- **Steve Blank** — *Perfection By Subtraction – The Minimum Feature Set*. [Steve Blank Blog](https://steveblank.com/2010/03/04/perfection-by-subtraction-the-minimum-feature-set/)
+- **Eric Ries** — *Minimum Viable Product: a guide*. [Startup Lessons Learned](http://www.startuplessonslearned.com/2009/08/minimum-viable-product-guide.html)
+- **Harvard Business Review** — *Why the Lean Start-Up Changes Everything* (Steve Blank). [HBR](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything)
+
 ---
 
 © 2026 M.J. de Wit. All rights reserved.
