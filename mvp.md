@@ -41,6 +41,15 @@ An MVP is inherently a product-centric concept rather than a project-centric one
 ### Does an MVP Stop Being an MVP When Features Are Added?
 Yes. Once an MVP has launched, gathered user feedback, and is being actively iterated on with added features based on that validated learning, it has graduated from being an **MVP** into an **evolving product** (or a mature product version). An MVP is strictly a *starting point* or a *vehicle* designed specifically for initial market validation and learning. Once that hypothesis is tested and the product enters continuous development, the "minimum" and "experimental" constraints no longer apply in the same way.
 
+## MVP and CI/CD (Continuous Integration, Delivery, and Deployment)
+
+An MVP and CI/CD share a symbiotic relationship centered around speed, feedback loops, and risk reduction:
+
+- **Enabling Rapid Feedback Loops:** The purpose of an MVP is to test hypotheses with real users and gather actionable learning. CI/CD automates the path from code change to production, ensuring insights gained from early adopters can be deployed, tested, and measured immediately without manual release friction.
+- **Small Batches over Big Bang Releases:** Both practices emphasize small, incremental changes. Rather than waiting months to build and deploy a feature-complete product, an MVP combined with CI/CD allows teams to release small iterations, measure impact, and pivot or persevere rapidly.
+- **Quality and Reliability:** Automated testing and integration (CI) ensure that even with a minimal feature set, code remains stable, secure, and robust every time changes are pushed.
+- **Continuous Delivery/Deployment as the Lifecycle Engine:** Once an MVP transitions into an evolving product, a robust CI/CD pipeline becomes the operational backbone that sustains continuous learning and feature delivery.
+
 ## MVP and Documentation
 
 In an MVP approach, documentation should mirror the philosophy of the product itself: lean, purposeful, and focused on speed and validation rather than exhaustive upfront planning. Over-documentation before launching an MVP can lead to wasted time if the product pivots based on user feedback. However, documentation remains essential for guiding development and enabling early users.
