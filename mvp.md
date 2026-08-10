@@ -28,6 +28,26 @@ Frank Robinson originally defined the MVP while working on synchronized business
 
 An MVP does not mean sub-par or broken quality. "Minimum" refers exclusively to the **scope of features** (building only what is necessary to test the core value proposition), not to the quality, reliability, or security of those features. If a product is buggy, unstable, or poorly engineered, users will attribute that poor experience to the product's overall value rather than its early stage, skewing feedback and invalidating the experiment. An MVP must still be robust, dependable, and usable enough to solve the specific user problem it targets.
 
+## MVP vs. Proof of Concept (PoC) vs. Demonstrator
+
+In product development, an MVP is frequently confused with other early-stage validation artifacts. They differ significantly in purpose, audience, and scope:
+
+1. **Proof of Concept (PoC):**
+   - *Focus:* Technical feasibility ("Can we build it?").
+   - *Audience:* Internal engineering and technical teams.
+   - *Nature:* A rough, internal experiment or prototype built to test a specific underlying technology, algorithm, or system architecture. It is usually discarded and not designed for production use.
+2. **Demonstrator (Demo):**
+   - *Focus:* Visual, conceptual, or stakeholder alignment ("What will it look like / how might it work?").
+   - *Audience:* Investors, management, stakeholders, or potential clients.
+   - *Nature:* A mock-up, simulation, or showcase model highlighting UI/UX concepts or system vision without requiring fully functioning backend logic.
+3. **Minimum Viable Product (MVP):**
+   - *Focus:* Market viability and behavioral validation ("Do people want it and will they use/pay for it?").
+   - *Audience:* External early adopters and real end-users.
+   - *Nature:* A fully functional, production-ready release containing only the core features needed to solve a real problem and initiate a feedback loop.
+
+### How They Relate
+In complex or high-risk innovations, a project might start with a **PoC** to prove technical viability, evolve into a **Demonstrator** to secure funding or alignment, and finally culminate in an **MVP** to test real-world market demand with actual users.
+
 ## The "Product-Over-Project" Mindset
 
 In agile software development and lean product management, the **product-over-project** mindset is a foundational paradigm shift:
