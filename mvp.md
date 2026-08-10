@@ -84,3 +84,7 @@ There is a distinct difference in scope, audience, and intent between product do
 - **Project Documentation (Installation, Setup & Operations):** 
   - *Focus:* How the project is built, deployed, configured, and run (e.g., `README` files, installation guides, deployment instructions, environment setup).
   - *MVP Approach:* Even a minimal product requires clear project documentation so that developers, stakeholders, or early adopters can actually install, run, and deploy it. While it should still be concise, having functional setup instructions is critical because code that cannot be run or deployed cannot serve as a viable MVP.
+
+---
+
+© 2026. All rights reserved.
