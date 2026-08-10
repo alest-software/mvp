@@ -24,6 +24,19 @@ Frank Robinson originally defined the MVP while working on synchronized business
 - **Faster Time-to-Market:** Gets the product into users' hands quickly.
 - **Feedback-Driven Development:** Aligns future product iterations with actual user behavior and preferences rather than assumptions.
 
+## The "Product-Over-Project" Mindset
+
+In agile software development and lean product management, the **product-over-project** mindset is a foundational paradigm shift:
+
+- **The Project Mindset:** Views software development as a finite, temporary undertaking with a fixed scope, schedule, and budget. Success is measured by delivering on time and on budget ("Did we build the thing correctly?"). Once delivered, the project is considered "finished" and handed off or maintained.
+- **The Product Mindset:** Views software as an ongoing, evolving value stream centered around user needs and business outcomes. Success is measured by the continuous value delivered and metric-driven impact ("Are we building the right thing?"). 
+
+### Relation to MVPs
+An MVP is inherently a product-centric concept rather than a project-centric one. In a project mindset, an MVP might be misconstrued as just the first "phase" or "release milestone" of a rigid project plan. In a product mindset, an MVP is the starting point of an ongoing journey of experimentation, measurement, learning, and continuous iteration. It acknowledges that the initial release is only a hypothesis, and the team remains responsible for evolving the product based on continuous user feedback long after the initial launch.
+
+### Does an MVP Stop Being an MVP When Features Are Added?
+Yes. Once an MVP has launched, gathered user feedback, and is being actively iterated on with added features based on that validated learning, it has graduated from being an **MVP** into an **evolving product** (or a mature product version). An MVP is strictly a *starting point* or a *vehicle* designed specifically for initial market validation and learning. Once that hypothesis is tested and the product enters continuous development, the "minimum" and "experimental" constraints no longer apply in the same way.
+
 ## MVP and Documentation
 
 In an MVP approach, documentation should mirror the philosophy of the product itself: lean, purposeful, and focused on speed and validation rather than exhaustive upfront planning. Over-documentation before launching an MVP can lead to wasted time if the product pivots based on user feedback. However, documentation remains essential for guiding development and enabling early users.
