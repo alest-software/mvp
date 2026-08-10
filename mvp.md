@@ -87,4 +87,4 @@ There is a distinct difference in scope, audience, and intent between product do
 
 ---
 
-© 2026. All rights reserved.
+© 2026 M.J. de Wit. All rights reserved.
